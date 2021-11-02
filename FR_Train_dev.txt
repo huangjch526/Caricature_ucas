@@ -1,0 +1,126 @@
+Judge Judy	15	18
+Jay-z	25	30
+Nicole Kidman	32	35
+Xingchi Zhou	3	11
+Bingbing Li	2	12
+Changjiang Pan	9	10
+Beau Bridges	3	12
+Oliver Hardy	20	18
+Bono	65	59
+Mark Zuckerberg	20	19
+Jackie Chan	18	16
+Muhammad Ali	23	22
+Jack Nicholson	34	19
+Luis Suarez	15	20
+John Wayne	63	36
+Ralph Fiennes	9	24
+Jinping Xi	5	12
+Kate Middleton	18	35
+Woody Harrelson	10	30
+Miley Cyrus	23	22
+Brad Pitt	21	20
+Amanda Seyfried	27	34
+Johnny Cash	33	21
+Tommy Lee Jones	46	27
+Michael Jackson	25	15
+Wen Jiang	4	9
+David Beckham	24	24
+Maggie Smith	13	14
+Alan Rickman	18	25
+Jamie lee curtis	17	26
+Ming Yao	11	11
+Leonardo-DiCaprio	16	16
+Elton John	57	36
+Ashley Olsen	3	13
+Liv Tyler	21	20
+Leonard Nimoy	52	20
+Elvis Presley	25	22
+John Goodman	8	11
+Ann Hathaway	53	48
+Jeff Bridges	35	25
+Danny Glover	10	20
+Jennifer Lawrence	20	30
+P!nk	31	36
+Steve Harvey	16	32
+Billy Idol	18	22
+Larry Hagman	17	16
+Prince Rogers Nelson	17	28
+Mahatma Gandhi	29	14
+Tim Burton	72	32
+Chuck Berry	24	15
+Prince Charles	27	39
+Stan Laurel	18	17
+George W. Bush	44	36
+Shakira	22	26
+Walter Mathau	11	14
+Don Knotts	9	19
+Steve Buscemi	44	31
+Steve Jobs	54	32
+John Belushi	14	23
+Sophia Loren	16	25
+Natalie Portman	13	15
+Yin Yang	1	12
+Madonna	14	23
+Mariah Carey	4	10
+Michael Schumacher	28	29
+George Burns	10	25
+Goldie Hawn	10	20
+Frank Zappa	47	38
+Donald Trump	34	28
+Eric Clapton	32	25
+Tony Curtis	11	21
+Kofi Annan	8	19
+Vincent Price	54	36
+Xiang Liu	4	10
+Jiabao Wen	4	10
+Lee Marvin	21	31
+Dame Margaret Rutherford	5	18
+Bob Marley	80	43
+Amy Winehouse	30	21
+Hugh Jackman	47	26
+Penelope Cruz	40	28
+Whoopi Goldberg	42	22
+Sheldon	20	16
+Robin Williams	18	19
+Steve McQueen	45	24
+Jennifer Aniston	10	22
+Cameron Diaz	15	20
+Will Smith	12	21
+Jean Reno	50	32
+Meryl Streep	34	36
+DeForest Kelley	5	18
+George Michael	10	22
+Sam Elliot	31	23
+Lucille Ball	94	55
+Harry Potter	18	19
+Nathan Fillion	10	46
+Prince William	22	28
+Michael Douglas	16	23
+Sally Field	4	10
+Jack Benny	6	19
+Chen Yao	3	12
+Michael Keaton	12	22
+Bill Murray	44	30
+Keith Richards	114	42
+Ludwig van Beethoven	12	7
+Mike Tyson	24	18
+Tracy Morgan	18	20
+Marilyn Monroe	81	45
+Ashton Kutcher	8	28
+Willie Nelson	29	26
+Susan Sarandon	23	35
+Lady Diana	14	21
+Steve Martin	23	28
+Robert Vaughn	6	18
+Charles Bronson	50	21
+Tom Jones	20	28
+Johnny Carson	16	21
+Clark Gable	34	35
+Robert de Niro	40	39
+Jingtao Hu	4	10
+Paul Newman	30	26
+You Ge	3	8
+Jay Leno	15	22
+Slyvester Stallone	16	20
+Harrison Ford	32	28
+Arnold Schwarzenegger	48	39
